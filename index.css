@@ -149,6 +149,7 @@
     margin: 20px 10px;
     box-shadow: 2px 3px 5px rgb(255, 255, 255);
     padding: 20px;
+    
 }
 
 .about .flex-abt {
@@ -183,8 +184,8 @@
 }
 
 .about .abt .img img {
-    width: 55px;
-    height: 55px;
+    width: 35px;
+    height: 35px;
     margin: 10px 23px 0 0;
 }
 
